@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C# .Net**
 
-- 📫 How to reach me **orujnov11@gmail.com**
+- 📫 How to reach me **orujin@code.edu.az**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
